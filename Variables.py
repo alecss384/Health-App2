@@ -36,7 +36,8 @@ W2_instruction3 =(
                     "Lie on your back and take your pulse for 15 seconds. Click the 'Start first test' button to start the timer \n"
                     "Press the 'Start final test' button to start the timer. \n"
                     "The seconds that should be measured are indicated in green and the minutes that should not be measured are indicated in black. Write down the results in the appropriate fields."
-                 )       
+                 )  
+     
 
 #Third screen
 W3_window_name = "Results"
